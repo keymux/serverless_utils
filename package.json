@@ -1,0 +1,8 @@
+{
+  "name": "serverless_utils",
+  "version": "0.1.0",
+  "description": "A library of serverless utilities to make abstract some shared features to enhance event handlers.",
+  "main": "index.js",
+  "author": "Henry <hankbrown@gmail.com>",
+  "license": "MIT"
+}
